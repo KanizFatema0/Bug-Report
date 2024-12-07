@@ -17,4 +17,4 @@ The following categories of issues were observed:
 - UI inconsistencies and functional bugs.
 
 # For better view of the project follow this link
-**https://docs.google.com/spreadsheets/d/1DQ4HRa3mqkrz6dfiiGs56xFm71-u2KS7/edit?usp=sharing&ouid=108483678813284092302&rtpof=true&sd=true**
+**https://docs.google.com/spreadsheets/d/1PtR3lKAddwVPC3AmZaKUEN_r5qYklFml/edit?usp=sharing&ouid=108483678813284092302&rtpof=true&sd=true**
